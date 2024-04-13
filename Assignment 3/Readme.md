@@ -35,4 +35,4 @@
 ## Ans: let w=prompt("Enter Weight")
 ## let h=prompt("Enter Height")
 ## BMI=w/(h*h)
-## alert(`BMI=${BMI}`)
+## alert(`BMI=${BMI}`) 
